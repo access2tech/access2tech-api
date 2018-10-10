@@ -1,0 +1,23 @@
+{
+  "name": "access2tech-api",
+  "version": "1.0.0",
+  "description": "API for the Access2Tech website and services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/access2tech/access2tech-api.git"
+  },
+  "author": "Access2Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/access2tech/access2tech-api/issues"
+  },
+  "homepage": "https://github.com/access2tech/access2tech-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
